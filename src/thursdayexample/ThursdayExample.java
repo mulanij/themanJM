@@ -7,7 +7,7 @@ package thursdayexample;
 
 /**
  *
- * @author 12896
+ * @author Joshua Mulani
  */
 public class ThursdayExample {
 
